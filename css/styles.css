@@ -1,1 +1,5 @@
-/* CSS Styles */
+canvas {
+    background: black;
+    display: block;
+    margin: 0 auto;
+}
